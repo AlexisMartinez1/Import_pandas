@@ -1,3 +1,4 @@
-
-# Ignorar archivos de sistema macOS
+# Ignorar datasets grandes
+Codigos/datasets/
+# macOS
 .DS_Store
